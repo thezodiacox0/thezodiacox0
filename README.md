@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @thezodiacox0</h1>
 <h3 align="center">A passionate about IT and programming.</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/thezodiacox0](github.com/thezodiacox0)
-
 - 📝 I regularly write articles on [thezodiacox0.github.io](thezodiacox0.github.io)
 
 <h3 align="left">Connect with me:</h3>
